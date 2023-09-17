@@ -1,24 +1,20 @@
 {
   "files": {
     "main.css": "/static/css/main.55234165.css",
-    "main.js": "/static/js/main.cd074b35.js",
-    "static/media/kickstart.png": "/static/media/kickstart.e27936ec3fc35c1b6808.png",
+    "main.js": "/static/js/main.c465a680.js",
     "static/media/my-pic.png": "/static/media/my-pic.988f7613aa5aa5bf1553.png",
     "static/media/nomelogofinal.png": "/static/media/nomelogofinal.bdf832630e7205c565b5.png",
-    "static/media/krypto.png": "/static/media/krypto.ca0e8bf963cc76cfe26c.png",
     "static/media/project.jpeg": "/static/media/project.7063238598429f9a1f79.jpeg",
     "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
-    "static/media/lift.png": "/static/media/lift.37d5e75bcb0994102a34.png",
     "static/media/sajib.pdf": "/static/media/sajib.0f860b808fe06bae999d.pdf",
     "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
-    "static/media/pg.png": "/static/media/pg.0d0d8ff689849d3d367c.png",
     "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/index.html",
     "main.55234165.css.map": "/static/css/main.55234165.css.map",
-    "main.cd074b35.js.map": "/static/js/main.cd074b35.js.map"
+    "main.c465a680.js.map": "/static/js/main.c465a680.js.map"
   },
   "entrypoints": [
     "static/css/main.55234165.css",
-    "static/js/main.cd074b35.js"
+    "static/js/main.c465a680.js"
   ]
 }
