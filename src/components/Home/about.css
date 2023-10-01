@@ -1,0 +1,16 @@
+#resumeButton{
+    /* z-index: 9999,
+    marginTop: "-160px",
+    marginLeft: "-480px" */
+    z-index: 9999;
+    margin-top: -160px;
+    margin-left: -480px;
+}
+
+@media (max-width: 768px) {
+    #resumeButton{
+       
+        margin-top: -130px;
+        margin-left: -180px;
+    }
+  }
